@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/navneetsingh04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navneetsingh04/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20545698/navneet-singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20545698/navneet-singh" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/navneetsingh04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/navneetsingh04" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/navneet_singh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/navneet_singh_04/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/navneetsingh04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/navneetsingh04/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20545698/navneet-singhh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20545698/navneet-singh" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/navneetsingh04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/navneetsingh04" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Navneet_singh_04/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/navneet_singh_04/" height="30" width="40" /></a>
 <a href="https://discord.gg/navneetsingh04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="navneetsingh04" height="30" width="40" /></a>
 </p>
 
