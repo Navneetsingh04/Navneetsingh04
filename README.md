@@ -88,5 +88,5 @@
 
 
 ---
-### 🐍 Contribution Snake
+### 🐍 GitHub Contribution
 <img src="https://raw.githubusercontent.com/navneetsingh04/navneetsingh04/output/snake.svg" alt="Snake animation" />
