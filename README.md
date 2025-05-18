@@ -9,10 +9,13 @@
 
 ---
 
-### 🌱 Currently Learning
+### 🌱 I’m currently learning
 - 🧠 Advanced DSA
-- ⚛️ React Ecosystem (Next.js, Redux)
+- ⚛ React.js, Node.js, JavaScript
 - 🚀 Full-Stack Development (MERN Stack)
+
+#### 👨‍💻 All of my projects are available at [portfolio](https://imnavneet.me)
+#### 📫 How to reach me navneetsingh1825@gmail.com
 
 ---
 
