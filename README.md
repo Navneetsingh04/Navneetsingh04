@@ -33,51 +33,65 @@
 ---
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 ---
-**Programming Languages:**  
+<h2>Programming Languages:</h2>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![R Programming](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/r-lang.svg" alt="R" width="50" height="50"/> 
+</p>
 
-**Data Science & ML:**  
+<h2>Data Science & ML:</h2>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="Numpy" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/pandas.svg" alt="Panda" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/hadoop.svg" alt="Hadoop" width="50" height="50"/> 
+</p>
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
+<h2>Frontend:</h2>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="html" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind-css" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="50" height="50"/> 
+</p>
 
-**Frontend:**  
+<h2>Backend:</h2>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="node.js" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/expressjs.svg" alt="express.js" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="jwt" width="50" height="50"/> 
+  <img src="https://cdn-icons-png.flaticon.com/512/15267/15267841.png" alt="Rest-API" width="50" height="50"/> 
+</p>
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<h2>Databases:</h2>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="mysql" width="50" height="50"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDb" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="50" height="50"/> 
+</p>
 
-**Backend:**  
+<h2>Tools & Platforms:</h2>
+<p>
+  <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="git" width="50" height="50"/> 
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="github" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/excel-4.svg" alt="excel" width="50" height="50"/> 
+</p>
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
-**Databases:**  
-
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Tools & Platforms:**  
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau)
-![Excel](https://img.shields.io/badge/-excel-F2C811?style=flat-square&logo=excel)
 
 ---
 
