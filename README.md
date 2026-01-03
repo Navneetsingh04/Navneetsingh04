@@ -84,6 +84,7 @@
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="postman" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="aws" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="aws" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/git-bash.svg" alt="git" width="50" height="50"/> 
   <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="github" width="50" height="50"/> 
