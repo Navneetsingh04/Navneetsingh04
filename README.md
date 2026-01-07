@@ -78,6 +78,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-logo-pure.svg" alt="mysql" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongoDb" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="postgresql" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/redis.svg" alt="redis" width="50" height="50"/> 
 </p>
 
 <h2>Tools & Platforms:</h2>
