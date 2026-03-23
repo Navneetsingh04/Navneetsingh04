@@ -41,6 +41,7 @@
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" alt="TypeScript" width="50" height="50"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="50" height="50"/> 
@@ -61,6 +62,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="css" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/tailwind-css-2.svg" alt="tailwind-css" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="react" width="50" height="50"/> 
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next.js" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" alt="vite" width="50" height="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/redux.svg" alt="redux" width="50" height="50"/> 
 </p>
