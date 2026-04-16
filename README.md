@@ -110,6 +110,13 @@
 
 ![navneet Singh](https://github-readme-streak-stats.herokuapp.com/?user=Navneetsingh04&theme=dark&hide_border=false)<br/>
 
+---
+
+### 📊 Activity Graph
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=navneetsingh04&theme=material-palenight&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=79C0FF&area=true&area_color=0dde41&hide_border=true" height="300" />
+</div>
 
 ---
 ### 🐍 GitHub Contribution
