@@ -35,11 +35,12 @@
 ---
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-## 🛠️ Tech Stack
 
+
+### 🛠️ Tech Stack
 ---
-<h2>Programming Languages:</h2>
 
+<h2>Programming Languages:</h2>
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" alt="Java" width="40"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40"/> 
